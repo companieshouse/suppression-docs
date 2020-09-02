@@ -9,7 +9,7 @@ Service to apply and pay for the removal of a home address from the Companies Ho
 
 ## Jira Board
 
-[Suppression backlog](https://companieshouse.atlassian.net/secure/RapidBoard.jspa?rapidView=367&view=planning.nodetail&issueLimit=100)
+* [Suppression backlog](https://companieshouse.atlassian.net/secure/RapidBoard.jspa?rapidView=367&view=planning.nodetail&issueLimit=100)
 
 ## Suppression Investigations:
 
