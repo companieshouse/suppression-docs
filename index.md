@@ -1,5 +1,3 @@
-# Suppression Service
-
 ## What is Suppression?
 Service to apply and pay for the removal of a home address from the Companies House register.
 
